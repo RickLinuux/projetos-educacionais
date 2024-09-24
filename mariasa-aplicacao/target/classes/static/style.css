@@ -1,0 +1,68 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa; /* Fundo claro */
+}
+
+.container {
+    background-color: #ffffff; /* Fundo da caixa */
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #343a40; /* Cor do texto */
+}
+
+h1 {
+    font-size: 2.5rem; /* Tamanho do título */
+}
+
+h2 {
+    margin-top: 30px; /* Espaço acima dos subtítulos */
+    font-size: 1.8rem; /* Tamanho dos subtítulos */
+}
+
+.table {
+    margin-top: 20px;
+    border-collapse: collapse; /* Remove espaços entre bordas */
+}
+
+.table th, .table td {
+    padding: 12px; /* Espaçamento interno das células */
+    text-align: left; /* Alinhamento do texto */
+}
+
+.table th {
+    background-color: #007bff; /* Cor de fundo do cabeçalho */
+    color: white; /* Cor do texto do cabeçalho */
+}
+
+.table-striped tbody tr:nth-child(odd) {
+    background-color: #f2f2f2; /* Cor de fundo das linhas ímpares */
+}
+
+.table-bordered {
+    border: 1px solid #dee2e6; /* Borda das tabelas */
+}
+
+.table-bordered th, .table-bordered td {
+    border: 1px solid #dee2e6; /* Borda das células */
+}
+
+.btn {
+    border-radius: 20px; /* Bordas arredondadas dos botões */
+}
+
+.btn-primary {
+    background-color: #28a745; /* Cor do botão */
+    border: none; /* Remove borda padrão */
+}
+
+.btn-primary:hover {
+    background-color: #218838; /* Cor do botão ao passar o mouse */
+}
+
+.text-center {
+    margin-bottom: 20px; /* Espaço abaixo do texto centralizado */
+}
