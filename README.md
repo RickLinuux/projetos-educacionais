@@ -36,7 +36,7 @@ Se você encontrar algum problema, tiver sugestões de melhorias ou quiser colab
 
 - **Henrique Rocha**  
   Técnico em Desenvolvimento de Sistemas - Senai  
-  [LinkedIn](https://www.linkedin.com/in/henrique-rocha)
+  [LinkedIn](www.linkedin.com/in/oh-henrique-rocha)
 
 ---
 
